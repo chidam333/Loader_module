@@ -24,4 +24,5 @@ main.svelte-ua7ztl {
     display: grid;
     justify-items: center;
     padding-top: 30vh;
+    overflow: hidden;
 }
