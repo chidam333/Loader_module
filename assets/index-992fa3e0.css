@@ -1,5 +1,6 @@
 .full.svelte-vlbq6e {
   place-items: center;
+  margin-bottom: 2vh;
 }
 .sqwrap.svelte-ua7ztl {
   position: absolute;
@@ -13,12 +14,12 @@
   position: relative;
   height: 1vh;
 }
-.overlay.svelte-ua7ztl {
+/* .overlay.svelte-ua7ztl {
   position: relative;
-}
+} */
 main.svelte-ua7ztl {
     width: 100vw;
-    height: 1000vh;
+    height: 100vh;
     background: black;
     display: grid;
     justify-items: center;

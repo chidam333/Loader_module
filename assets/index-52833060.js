@@ -246,7 +246,7 @@ function te(e) {
     c() {
       (t = h("main")),
         (t.innerHTML =
-          '<div class="full svelte-vlbq6e" style="width: 40vw; display:grid;"><img src="./logoreal.png" alt="logo" style="width: 40vw;"/></div>');
+          '<div class="full svelte-vlbq6e" style="width: 40vw; display:grid;"><img src="./logoreal.png" alt="logo" style="width: 15vw;"/></div>');
     },
     m(n, i) {
       B(n, t, i);
