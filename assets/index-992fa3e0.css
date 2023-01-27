@@ -5,13 +5,12 @@
   position: absolute;
   top: 0px;
   left: 0px;
-  background: linear-gradient(green, transparent);
+  background: linear-gradient(white, transparent);
   height: 1vh;
 }
 .square.svelte-ua7ztl {
   width: 40vw;
   position: relative;
-  border: 4px solid green;
   height: 1vh;
 }
 .overlay.svelte-ua7ztl {
@@ -20,7 +19,7 @@
 main.svelte-ua7ztl {
     width: 100vw;
     height: 1000vh;
-    background: white;
+    background: black;
     display: grid;
     justify-items: center;
     padding-top: 30vh;
