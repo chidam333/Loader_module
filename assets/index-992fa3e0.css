@@ -18,9 +18,10 @@
   position: relative;
 }
 main.svelte-ua7ztl {
-  width: 100vw;
-  height: 100vh;
-  background: white;
-  display: grid;
-  place-items: center;
+    width: 100vw;
+    height: 1000vh;
+    background: white;
+    display: grid;
+    justify-items: center;
+    padding-top: 30vh;
 }
