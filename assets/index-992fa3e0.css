@@ -1,24 +1,23 @@
-.full.svelte-1svnmmj {
+.full.svelte-vlbq6e {
   place-items: center;
-  margin-bottom: 0vh;
 }
-.sqwrap.svelte-1noxule {
+.sqwrap.svelte-ua7ztl {
   position: absolute;
   top: 0px;
   left: 0px;
   background: linear-gradient(green, transparent);
   height: 1vh;
 }
-.square.svelte-1noxule {
+.square.svelte-ua7ztl {
   width: 40vw;
   position: relative;
-  border: 4px dotted green;
+  border: 4px solid green;
   height: 1vh;
 }
-.overlay.svelte-1noxule {
+.overlay.svelte-ua7ztl {
   position: relative;
 }
-.full.svelte-1noxule {
+main.svelte-ua7ztl {
   width: 100vw;
   height: 100vh;
   background: white;
