@@ -1,28 +1,27 @@
 .full.svelte-1svnmmj {
-    place-items: center;
-    margin-bottom: 4vh;
-  }
-  .sqwrap.svelte-1qd3yq2 {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    background: linear-gradient(green, transparent);
-    height: 4vh;
-  }
-  .square.svelte-1qd3yq2 {
-    width: 40vw;
-    position: relative;
-    border: 4px dotted green;
-    height: 4vh;
-  }
-  .overlay.svelte-1qd3yq2 {
-    position: relative;
-  }
-  .full.svelte-1qd3yq2 {
-    width: 100vw;
-    height: 100vh;
-    background: black;
-    display: grid;
-    place-items: center;
-  }
-  
+  place-items: center;
+  margin-bottom: 0vh;
+}
+.sqwrap.svelte-1noxule {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background: linear-gradient(green, transparent);
+  height: 1vh;
+}
+.square.svelte-1noxule {
+  width: 40vw;
+  position: relative;
+  border: 4px dotted green;
+  height: 1vh;
+}
+.overlay.svelte-1noxule {
+  position: relative;
+}
+.full.svelte-1noxule {
+  width: 100vw;
+  height: 100vh;
+  background: white;
+  display: grid;
+  place-items: center;
+}
